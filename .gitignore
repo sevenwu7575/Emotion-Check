@@ -1,0 +1,16 @@
+# Jetson heavy/generated files
+jetson-inference/build/
+jetson-inference/data/
+jetson-inference/docs/
+jetson-inference/docker/
+jetson-inference/ros/
+
+# tests / trials
+**/test/
+**/tests/
+**/trial/
+**/trials/
+
+# Python cache
+__pycache__/
+*.pyc
