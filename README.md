@@ -38,3 +38,15 @@ I made this project by:
 ## 📁 Dataset
 
 The dataset is split into two classes:
+Happy and Sad
+
+
+
+
+
+
+
+
+
+Video: https://drive.google.com/file/d/1VfBE7JY8cn5XNX3xBvIPlVp9evauj43u/view?usp=sharing
+
